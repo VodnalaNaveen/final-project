@@ -2,7 +2,6 @@
     text-align: center;
 }
 #signin{
-    height: 30%;
     width: 50%;
     margin-left: 25%;
     padding-top: 1rem;
@@ -61,7 +60,6 @@
 }
 #info{
     width: 80%;
-    height: 85%;
     margin-left: 10%;
 }
 #like{
